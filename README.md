@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting argument labels when calling functions with multiple parameters. The `bug.swift` file contains the erroneous code, while `bugSolution.swift` provides the corrected version.  The error arises from omitting the argument label `width:` in the function call, leading to a compiler error.
